@@ -1,5 +1,5 @@
 {
-   "token":"ODMxMTc4NTMzNTkzNDE1Njkx.YHRdVA.yAr9i5lIrg7W-oTpL96IkHGrj-4",   
+   "token":"process.env.TOKEN",   
    "prefix":"+",
    "DEFAULT_PREFIX": "+",
    "OWNER_ID": "493416678429032500",
